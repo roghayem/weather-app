@@ -7,7 +7,7 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. This 
 ## 🌟 Live Demo
 
 👉 View Live Demo:
-`YOUR-LIVE-DEMO-LINK-HERE`
+https://roghayem.github.io/weather-app/
 
 ---
 
