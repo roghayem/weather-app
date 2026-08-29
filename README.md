@@ -13,7 +13,7 @@ https://roghayem.github.io/weather-app/
 
 ## 🖼️ Preview
 
-![Weather App Preview](YOUR-SCREENSHOT-LINK-HERE)
+![Weather App Preview](assest/Weather-App-08-27-2026_10_24_AM.png)
 
 ---
 
