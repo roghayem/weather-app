@@ -1,62 +1,63 @@
 # 🌤️ Weather App
 
-A simple and responsive Weather App built using HTML, CSS, and JavaScript. This project allows users to search for a city and view its current weather information through a weather API.
+A simple and responsive Weather App built using HTML, CSS, and JavaScript. This application allows users to search for a city and view its current weather information using a weather API.
 
 ---
 
 ## 🌟 Live Demo
 
-👉 View Live Demo:
-https://roghayem.github.io/weather-app/
+👉 View Live Demo: [https://roghayem.github.io/weather-app/](https://roghayem.github.io/weather-app/)
 
 ---
 
 ## 🖼️ Preview
 
-![Weather App Preview](assest/Weather-App-08-27-2026_10_24_AM.png)
+[Weather App](https://github.com/roghayem/weather-app/raw/main/assest/Weather-App-08-27-2026_10_24_AM.png)
 
 ---
 
 ## ✨ Features
 
-* 🌍 Search for weather by city
-* 🌡️ Display current temperature
-* ☁️ Display current weather condition
-* 💨 Display wind speed
-* 💧 Display humidity
-* 🔄 Fetch updated weather data from an API
-* 📱 Responsive design
-* 🎨 Simple and clean user interface
-* ⚡ Interactive search functionality
+- Search for weather by city
+- Display current temperature
+- Display current weather conditions
+- Show wind speed
+- Show humidity
+- Fetch updated weather data from an API
+- Responsive design for different screen sizes
+- Simple and clean user interface
+- Interactive search functionality
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* Fetch API
-* Weather API
-* DOM Manipulation
-* CSS Flexbox
-* Media Queries
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Fetch API
+- Weather API
+- DOM Manipulation
+- CSS Flexbox
+- Media Queries
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Getting Started
+
+To run this project locally:
 
 1. Clone the repository:
 
-```bash
-git clone YOUR-REPOSITORY-LINK
-```
+   ```bash
+   git clone https://github.com/roghayem/weather-app.git
+   ```
 
 2. Open the project folder:
 
-```bash
-cd weather-app
-```
+   ```bash
+   cd weather-app
+   ```
 
 3. Open `index.html` in your browser.
 
@@ -77,30 +78,28 @@ weather-app/
 
 ---
 
-## 🎯 Project Goals
+## 📚 What I Learned
 
-This project was created to practice and improve:
+Through this project, I practiced:
 
-* Working with APIs
-* Using the Fetch API
-* Handling asynchronous JavaScript
-* DOM Manipulation
-* JavaScript Events
-* Working with JSON Data
-* Error Handling
-* Responsive Web Design
-* Front-End Development Fundamentals
-
----
-
-## 📧 Contact
-
-Feel free to explore my GitHub profile and check out more of my projects.
-
-GitHub: https://github.com/roghayem
+- Working with external APIs
+- Using the Fetch API to retrieve weather data
+- Handling asynchronous JavaScript
+- Working with JSON data
+- Handling API errors
+- Dynamically displaying data using JavaScript
+- Handling JavaScript events
+- Building responsive layouts
+- Strengthening front-end development fundamentals
 
 ---
 
-## ⭐ Support
+## 👩‍💻 Author
 
-If you like this project, consider giving it a star on GitHub.
+**Roghaye Mohammadi**
+
+- GitHub: [@roghayem](https://github.com/roghayem)
+
+---
+
+⭐ If you like this project, feel free to give it a star!
