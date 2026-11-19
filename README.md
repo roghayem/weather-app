@@ -12,7 +12,7 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. This 
 
 ## 🖼️ Preview
 
-[Weather App](https://github.com/roghayem/weather-app/raw/main/assest/Weather-App-08-27-2026_10_24_AM.png)
+![Weather App](https://github.com/roghayem/weather-app/raw/main/assest/Weather-App-08-27-2026_10_24_AM.png)
 
 ---
 
